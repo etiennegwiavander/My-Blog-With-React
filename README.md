@@ -1,18 +1,7 @@
-# Getting Started with Create React App
+# About My Blog With React 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a basic blogging application with the ability for everyone to create, update and delete a blog.
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
+Please click the link below to test this project out
 
 # [Demo](https://etienneg-first-blog.netlify.app/)
